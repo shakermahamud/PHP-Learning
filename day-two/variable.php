@@ -12,4 +12,3 @@ echo "My age is {$myAge}\n";
 echo "My propession is {$myPorpession}\n";
 echo $myNewAge."\n";
 echo $$myNewAge;
-
